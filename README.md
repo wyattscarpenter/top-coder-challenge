@@ -1,3 +1,9 @@
+# Wyatt S Carpenter's foreword
+
+I do not except to win this challenge. If it was easy enough for me to win, someone else would win it already. I'm not going to break out the fancy techniques like machine learning. I'm going to play this as a puzzle. If I get something that seems right I'll submit 🤷.
+
+The original readme follows:
+
 # Top Coder Challenge: Black Box Legacy Reimbursement System
 
 **Reverse-engineer a 60-year-old travel reimbursement system using only historical data and employee interviews.**
